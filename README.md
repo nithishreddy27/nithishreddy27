@@ -5,7 +5,7 @@ Graduate researcher focused on **GPU systems & ML infrastructure** — writing f
 - 🔬 Researching **FlashAttention internals & CUDA kernel optimization** on H100
 - 🚀 Building **[ShadowMeet](https://shadow-meet.com)** — an AI meeting & interview copilot
 - ⚡ Into low-latency inference, systems-for-ML, and anything performance-critical
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/nithish-reddy-5703a11ba)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/nithishreddy27)
 
 ---
 
@@ -31,8 +31,3 @@ Graduate researcher focused on **GPU systems & ML infrastructure** — writing f
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
-
-### 📊 GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nithishreddy27&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishreddy27&theme=dark&hide_border=true&layout=compact)
